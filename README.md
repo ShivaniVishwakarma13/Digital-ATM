@@ -1,1 +1,1 @@
-<h1>Gigital ATM System</h1>
+Digital ATM System
